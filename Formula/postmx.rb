@@ -1,8 +1,8 @@
 class Postmx < Formula
   desc "CLI for the PostMX email testing API"
   homepage "https://github.com/postmx/cli"
-  url "https://registry.npmjs.org/postmx-cli/-/postmx-cli-0.1.4.tgz"
-  sha256 "7f916440b25d5e3cefd9aeaa5d9399cd19cc59b2647074ac341943da350374b3"
+  url "https://registry.npmjs.org/postmx-cli/-/postmx-cli-0.1.7.tgz"
+  sha256 "2cc45dbb3257e5042162081429f6a0a89aec769aabc82c7565f6618942977681"
   license "MIT"
 
   depends_on "node"
